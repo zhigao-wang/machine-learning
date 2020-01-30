@@ -1,0 +1,2 @@
+scipy是常用的python科学计算库，在ubuntu中使用python3 -m pip install scipy安装失败，故使用apt install python3-scipy安装，然后使用python3 -m pip
+install --upgrade scipy，然后OMR（Optical Mark Recognition）实验顺利通过。
